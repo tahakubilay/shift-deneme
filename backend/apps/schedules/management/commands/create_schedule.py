@@ -5,28 +5,32 @@ from datetime import datetime, date, time, timedelta
 import calendar
 import math
 
+# Modelleri import edelim
 from apps.users.models import CustomUser
 from apps.branches.models import Sube, SubeCalismaSaati
 from apps.schedules.models import Musaitlik, AylikSaatDengesi, Vardiya, CalisanTercihi, KisitlamaKurali
+from apps.schedules.choices import Gunler # Choices dosyasından Gunler'i alalım (Eğer kullanıyorsanız, models.py'den alınmalı)
 
 VARDİYA_MIN_SAAT = 3
 VARDİYA_MAX_SAAT = 9
-AYLIK_SAAT_LIMITI = 120 # Gerekirse esnetilebilir
+AYLIK_SAAT_LIMITI = 120
 
 class Command(BaseCommand):
-    help = 'Nihai v13: Özyinelemeli, doğru kurallı motor.'
+    help = 'Nihai v14: Gerçekten çalışan, vardiya bölen, mesai ve kısıtlama yöneten plan.'
 
     def add_arguments(self, parser):
         parser.add_argument('donem', type=str, help='Planın oluşturulacağı dönem (YYYY-AA formatında)')
 
     def handle(self, *args, **options):
         donem = options['donem']
-        self.stdout.write(self.style.SUCCESS(f'>>> {donem} dönemi için Nihai Planlama Motoru v13 başlatılıyor...'))
+        self.stdout.write(self.style.SUCCESS(f'>>> {donem} dönemi için Nihai Planlama Motoru v14 başlatılıyor...'))
 
         # --- Veri Toplama ---
         self.aktif_calisanlar = list(CustomUser.objects.filter(is_active=True, rol='calisan'))
         self.kisitlama_kurallari = list(KisitlamaKurali.objects.all())
+        # --- EKSİK OLAN SATIR BURADA ---
         self.calisan_tercihleri = list(CalisanTercihi.objects.select_related('calisan', 'sube'))
+        # -------------------------------
         self.musaitlik_sablonlari = self.get_musaitlik_dict(donem)
         try:
             prev_month_dt = datetime.strptime(donem, "%Y-%m") - timedelta(days=1)
@@ -36,7 +40,6 @@ class Command(BaseCommand):
             
         self.atanan_saatler = {calisan.id: 0 for calisan in self.aktif_calisanlar}
         self.atanan_mesai_saatler = {calisan.id: 0 for calisan in self.aktif_calisanlar}
-        # Çakışma kontrolü için {calisan_id: [(baslangic, bitis)]}
         self.atanmis_vardiyalar = {calisan.id: [] for calisan in self.aktif_calisanlar}
         calisma_saatleri = self.get_calisma_saatleri_dict()
 
@@ -44,95 +47,134 @@ class Command(BaseCommand):
         yil, ay = map(int, donem.split('-'))
         Vardiya.objects.filter(durum='taslak', baslangic_zamani__year=yil, baslangic_zamani__month=ay).delete()
         
-        # --- Gün Bazlı Çözücüyü Çalıştırma ---
+        # --- Doldurulacak vardiya bloklarını belirle ---
         aydaki_gunler = [d for d in calendar.Calendar().itermonthdates(yil, ay) if d.month == ay]
+        doldurulacak_vardiyalar = []
         for sube in Sube.objects.all():
             for gun_tarihi in aydaki_gunler:
                 haftanin_gunu = gun_tarihi.isoweekday()
                 sube_saatleri = calisma_saatleri.get(sube.id, {}).get(haftanin_gunu)
-                
-                if not sube_saatleri or sube_saatleri.get('kapalı'): continue
+                if sube_saatleri and not sube_saatleri.get('kapalı'):
+                    baslangic = datetime.combine(gun_tarihi, sube_saatleri['acilis'])
+                    bitis = datetime.combine(gun_tarihi, sube_saatleri['kapanis'])
+                    if bitis <= baslangic: bitis += timedelta(days=1)
+                    doldurulacak_vardiyalar.append({"sube": sube, "baslangic": baslangic, "bitis": bitis, "dolu_araliklar": []})
+        
+        # --- AŞAMA 1: FAVORİLERİ ATA ---
+        self.stdout.write(self.style.HTTP_INFO('\nAŞAMA 1: Favori atamaları yapılıyor...'))
+        self.assign_favorites(doldurulacak_vardiyalar)
 
-                self.stdout.write(self.style.HTTP_INFO(f"\nÇözülüyor: {sube.sube_adi} - {gun_tarihi.strftime('%d/%m/%Y')} ({sube_saatleri['acilis']} - {sube_saatleri['kapanis']})"))
-                
-                gun_baslangic = datetime.combine(gun_tarihi, sube_saatleri['acilis'])
-                gun_bitis = datetime.combine(gun_tarihi, sube_saatleri['kapanis'])
-                if gun_bitis <= gun_baslangic: gun_bitis += timedelta(days=1)
-
-                self.solve_day_for_branch(sube, gun_baslangic, gun_bitis)
+        # --- AŞAMA 2: KALAN BOŞLUKLARI DOLDUR ---
+        self.stdout.write(self.style.HTTP_INFO('\nAŞAMA 2: Kalan boşluklar dolduruluyor...'))
+        self.fill_remaining_shifts(doldurulacak_vardiyalar)
 
         self.stdout.write(self.style.SUCCESS('>>> Planlama tamamlandı!'))
 
-    # --- ÖZYİNELEMELİ ÇÖZÜCÜ ---
-    def solve_day_for_branch(self, sube, blok_baslangic, blok_bitis):
-        kalan_sure = (blok_bitis - blok_baslangic).total_seconds() / 3600
-        if kalan_sure < VARDİYA_MIN_SAAT:
-            if kalan_sure > 0.1: self.stdout.write(self.style.WARNING(f" -> Doldurulamayan {kalan_sure:.1f} saatlik boşluk kaldı."))
-            return
+    # --- ATAMA FONKSİYONLARI ---
 
-        aday_havuzu = self.find_candidates(sube, blok_baslangic)
-        if not aday_havuzu:
-            self.stdout.write(self.style.WARNING(f" -> {blok_baslangic.strftime('%H:%M')} başlangıcı için aday bulunamadı."))
-            return
-        
-        sirali_adaylar = self.rank_candidates(aday_havuzu, sube, blok_baslangic)
-        
-        vardiya_atandi = False
-        for aday_data in sirali_adaylar:
-            aday = aday_data['aday']
+    def assign_favorites(self, tum_vardiya_bloklari):
+        for tercih in self.calisan_tercihleri:
+            calisan = tercih.calisan
+            for blok in tum_vardiya_bloklari:
+                if any(start < blok['bitis'] and end > blok['baslangic'] for start, end in blok.get('dolu_araliklar', [])): continue
+                if tercih.sube_id == blok['sube'].id and tercih.gun == blok['baslangic'].isoweekday():
+                    if self.is_candidate_valid_at_start(calisan, blok['sube'], blok['baslangic']):
+                        self.stdout.write(f"  -> Favori Denemesi: {calisan.username} -> {blok['sube'].sube_adi} [{blok['baslangic'].strftime('%d/%m')}]")
+                        self.solve_and_assign_gap(calisan, blok, blok['baslangic'], blok['bitis'])
+
+    def fill_remaining_shifts(self, tum_vardiya_bloklari):
+        tum_bosluklar = []
+        for blok in tum_vardiya_bloklari:
+            bosluklar = self.find_gaps_in_block(blok)
+            for bosluk_bas, bosluk_bitis in bosluklar:
+                tum_bosluklar.append({'sube': blok['sube'], 'baslangic': bosluk_bas, 'bitis': bosluk_bitis, 'blok_ref': blok})
+        tum_bosluklar.sort(key=lambda x: x['baslangic'])
+
+        for bosluk in tum_bosluklar:
+            blok = bosluk['blok_ref']
+            if any(start <= bosluk['baslangic'] and end >= bosluk['bitis'] for start, end in blok.get('dolu_araliklar', [])): continue
+
+            self.stdout.write(self.style.HTTP_INFO(f"\nÇözülüyor: {bosluk['sube'].sube_adi} - {bosluk['baslangic'].strftime('%d/%m %H:%M')} -> {bosluk['bitis'].strftime('%H:%M')}"))
             
-            atanacak_sure = min(VARDİYA_MAX_SAAT, kalan_sure)
+            aday_havuzu = self.find_candidates(bosluk['sube'], bosluk['baslangic'])
+            if not aday_havuzu:
+                self.stdout.write(self.style.WARNING(" -> Bu boşluk için uygun aday bulunamadı."))
+                continue
             
-            # --- KISITLAMA İLE SÜRE AYARI (HEM BAŞLANGIÇ HEM BİTİŞ KONTROLÜ) ---
-            kural_bitis_saati = self.check_restriction_end_time(aday, sube)
-            potansiyel_bitis_zamani = blok_baslangic + timedelta(hours=atanacak_sure)
+            sirali_adaylar = self.rank_candidates(aday_havuzu, bosluk['sube'], bosluk['baslangic'])
+            
+            vardiya_atandi_mi = False
+            for aday_data in sirali_adaylar:
+                en_iyi_aday = aday_data['aday']
+                if self.solve_and_assign_gap(en_iyi_aday, blok, bosluk['baslangic'], bosluk['bitis']):
+                    vardiya_atandi_mi = True
+                    break
+            
+            if not vardiya_atandi_mi:
+                self.stdout.write(self.style.WARNING(f" -> {bosluk['baslangic'].strftime('%H:%M')} boşluğu için çakışmasız aday bulunamadı."))
 
-            if kural_bitis_saati:
-                kural_bitis_datetime = datetime.combine(blok_baslangic.date(), kural_bitis_saati)
-                if kural_bitis_datetime < blok_baslangic: kural_bitis_datetime += timedelta(days=1)
+    def find_gaps_in_block(self, blok):
+        gaps = []; current_time = blok['baslangic']
+        dolu_araliklar = sorted(blok.get('dolu_araliklar', []))
+        for dolu_bas, dolu_bitis in dolu_araliklar:
+            if current_time < dolu_bas:
+                 if (dolu_bas - current_time).total_seconds() / 3600 >= VARDİYA_MIN_SAAT:
+                    gaps.append((current_time, dolu_bas))
+            current_time = max(current_time, dolu_bitis)
+        if current_time < blok['bitis']:
+            if (blok['bitis'] - current_time).total_seconds() / 3600 >= VARDİYA_MIN_SAAT:
+                gaps.append((current_time, blok['bitis']))
+        return gaps
 
-                # Eğer vardiyanın BİTİŞİ kuralı aşıyorsa, süreyi kısalt
-                if potansiyel_bitis_zamani > kural_bitis_datetime:
-                    self.stdout.write(self.style.WARNING(f"   -> Kısıtlama Nedeniyle Süre Kısaltıldı: {aday.username} {kural_bitis_saati}'de bitirecek."))
-                    yeni_atanacak_sure = max(0, (kural_bitis_datetime - blok_baslangic).total_seconds() / 3600)
-                    
-                    if yeni_atanacak_sure < VARDİYA_MIN_SAAT:
-                       self.stdout.write(self.style.WARNING(f"   -> {aday.username} için kısıtlama sonrası süre ({yeni_atanacak_sure:.1f} saat) minimumdan az. Bu aday atlanıyor."))
-                       continue # Bu aday bu boşluğa uygun değil, sonraki adayı dene
-                    
-                    atanacak_sure = yeni_atanacak_sure # Süreyi kurala göre ayarla
-            #----------------------------------------------------
+    def solve_and_assign_gap(self, calisan, blok, bosluk_baslangic, bosluk_bitis):
+        kalan_sure = (bosluk_bitis - bosluk_baslangic).total_seconds() / 3600
+        atanacak_sure = min(VARDİYA_MAX_SAAT, kalan_sure)
 
-            yeni_bosluk_suresi = kalan_sure - atanacak_sure
-            if 0 < yeni_bosluk_suresi < VARDİYA_MIN_SAAT:
-                 if kalan_sure <= VARDİYA_MAX_SAAT + VARDİYA_MIN_SAAT:
-                    atanacak_sure = kalan_sure
-                    self.stdout.write(self.style.NOTICE(f"   -> Zorunlu Mesai: {aday.get_full_name()} {yeni_bosluk_suresi:.1f} saat mesai yapacak."))
-                 # else: # Eğer kalan süre büyükse (örn 13 saat), zaten atanacak_sure = 9 idi, dokunma
+        kural_bitis_saati = self.check_restriction_end_time(calisan, blok['sube'])
+        potansiyel_bitis_zamani = bosluk_baslangic + timedelta(hours=atanacak_sure)
 
-            vardiya_bitis_zamani = blok_baslangic + timedelta(hours=atanacak_sure)
+        if kural_bitis_saati:
+            kural_bitis_datetime = datetime.combine(bosluk_baslangic.date(), kural_bitis_saati)
+            if kural_bitis_datetime < bosluk_baslangic : kural_bitis_datetime += timedelta(days=1)
+            
+            if kural_bitis_datetime <= bosluk_baslangic: return False
 
-            # Son Çakışma Kontrolü
-            if not self.has_conflicting_shift(aday, blok_baslangic, vardiya_bitis_zamani):
-                self.create_shift(aday, sube, blok_baslangic, vardiya_bitis_zamani)
-                vardiya_atandi = True
-                
-                # ÖZYİNELEME: Kalan boşluk için tekrar çöz
-                kalan_blok_baslangic = vardiya_bitis_zamani
-                if (blok_bitis - kalan_blok_baslangic).total_seconds() / 3600 >= VARDİYA_MIN_SAAT:
-                    self.solve_day_for_branch(sube, kalan_blok_baslangic, blok_bitis)
-                break # Bu blok parçası için atama yapıldı, sonraki boşluğa geç (özyineleme halledecek)
+            if potansiyel_bitis_zamani > kural_bitis_datetime:
+                yeni_atanacak_sure = max(0, (kural_bitis_datetime - bosluk_baslangic).total_seconds() / 3600)
+                if yeni_atanacak_sure < VARDİYA_MIN_SAAT: return False
+                atanacak_sure = yeni_atanacak_sure
+                self.stdout.write(self.style.NOTICE(f"   -> Kısıtlama: {calisan.username} vardiyası {kural_bitis_saati}'de bitecek."))
+
+        yeni_bosluk_suresi = kalan_sure - atanacak_sure
+        if 0 < yeni_bosluk_suresi < VARDİYA_MIN_SAAT:
+             if kalan_sure <= VARDİYA_MAX_SAAT + VARDİYA_MIN_SAAT:
+                atanacak_sure = kalan_sure
+                self.stdout.write(self.style.NOTICE(f"   -> Zorunlu Mesai: {calisan.get_full_name()} {yeni_bosluk_suresi:.1f} saat mesai."))
+
+        vardiya_bitis_zamani = bosluk_baslangic + timedelta(hours=atanacak_sure)
         
-        if not vardiya_atandi:
-            self.stdout.write(self.style.WARNING(f" -> {blok_baslangic.strftime('%H:%M')} için çakışmasız uygun aday bulunamadı."))
+        if not self.has_conflicting_shift(calisan, bosluk_baslangic, vardiya_bitis_zamani):
+            self.create_shift(calisan, blok['sube'], bosluk_baslangic, vardiya_bitis_zamani)
+            blok.setdefault('dolu_araliklar', []).append((bosluk_baslangic, vardiya_bitis_zamani))
+            return True
+        else:
+            self.stdout.write(self.style.WARNING(f"   -> Atama Denemesi Başarısız: {calisan.username} için {bosluk_baslangic.strftime('%H:%M')} ataması çakışıyor."))
+            return False
 
-    # --- FİLTRELEME FONKSİYONLARI ---
+    # --- KONTROL FONKSİYONLARI ---
+
+    def is_candidate_valid_at_start(self, calisan, sube, baslangic_zamani):
+        """Bir adayın vardiya başlangıcı için uygun olup olmadığını kontrol eder (Sadece favoriler için)."""
+        if not self.is_available(calisan, baslangic_zamani): return False
+        if self.atanan_saatler[calisan.id] >= AYLIK_SAAT_LIMITI: return False
+        if self.violates_restriction_at_start(calisan, sube, baslangic_zamani): return False
+        return True
+
     def find_candidates(self, sube, baslangic_zamani):
         """Sadece temel uygunlukları kontrol eder."""
         adaylar = []
         for calisan in self.aktif_calisanlar:
             if not self.is_available(calisan, baslangic_zamani): continue
-            # GÜN İÇİNDE BAŞKA VARDİYASI OLUP OLMADIĞINA BAKMIYORUZ!
             if self.atanan_saatler[calisan.id] >= AYLIK_SAAT_LIMITI: continue
             if self.violates_restriction_at_start(calisan, sube, baslangic_zamani): continue
             adaylar.append(calisan)
@@ -170,7 +212,8 @@ class Command(BaseCommand):
         """Adayları sıralar (Favori önceliği dahil)."""
         adaylar_ve_puanlar = []
         haftanin_gunu = baslangic_zamani.isoweekday()
-        
+        gun_tarihi = baslangic_zamani.date() # Günü alalım
+
         for aday in aday_havuzu:
             puan = 0
             is_favorite = False
@@ -191,7 +234,7 @@ class Command(BaseCommand):
 
     def create_shift(self, calisan, sube, baslangic, bitis):
         vardiya_suresi = (bitis - baslangic).total_seconds() / 3600
-        if vardiya_suresi < VARDİYA_MIN_SAAT - 0.1: # Min sürenin altındaysa kaydetme
+        if vardiya_suresi < VARDİYA_MIN_SAAT - 0.1:
             self.stdout.write(self.style.ERROR(f"   -> HATA: Oluşturulan vardiya süresi ({vardiya_suresi:.1f}) minimumdan az! Atama yapılmadı."))
             return
 
@@ -203,7 +246,8 @@ class Command(BaseCommand):
         self.atanan_mesai_saatler[calisan.id] += mesai_suresi
         self.stdout.write(f"   -> Atama: {calisan.get_full_name() or calisan.username} -> {sube.sube_adi} [{baslangic.strftime('%H:%M')}-{bitis.strftime('%H:%M')}] ({vardiya_suresi:.1f} saat){' (MESAI)' if mesai_suresi > 0 else ''}")
 
-    # --- DİĞER YARDIMCI FONKSİYONLAR (DEĞİŞİKLİK YOK) ---
+
+    # --- DİĞER YARDIMCI FONKSİYONLAR ---
     def is_available(self, calisan, baslangic_zamani):
         haftanin_gunu = baslangic_zamani.isoweekday()
         calisan_musaitlik = self.musaitlik_sablonlari.get(calisan.id, {})
