@@ -1,0 +1,2649 @@
+>>> 2025-11 dönemi için Nihai Planlama Motoru v3 baþlatýlýyor...
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 01/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 02/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 03/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 04/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 05/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 06/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 07/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 08/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 09/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 10/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 11/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 12/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 13/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 14/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 15/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 16/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 17/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 18/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 19/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 20/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Burak Gokbudak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 21/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 22/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Aysenur senel -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 23/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Aysenur senel -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 24/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 25/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 26/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 27/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 28/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 29/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Aysenur senel -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ - 30/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Aysenur senel -> ÞEHÝT HÝKMET BAYSAL GM MÝLLET KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 01/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 02/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Gurkan Kocabey -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 03/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 04/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 05/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 06/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 07/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 08/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 09/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Gurkan Kocabey -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 10/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 11/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 12/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 13/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 14/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 15/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 16/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Gurkan Kocabey -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 17/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 18/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 19/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 20/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Burcak Yasar -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 21/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 22/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Hilal Kandemir -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 23/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Gurkan Kocabey -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 24/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 25/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 26/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 27/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 28/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Esma Nur ilhan -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 29/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Hilal Kandemir -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  - 30/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Ali Acay -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [09:00-18:00] (9.0 saat)
+   -> Atama: Gurkan Kocabey -> SEZAÝ KARAKOÇ ENGELÝLER VE GENÇLÝK MERKEZÝ KÜTÜPHANESÝ  [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 01/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 02/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 03/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 04/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 05/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 06/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 07/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 08/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 09/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 10/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 11/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 12/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 13/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 14/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 15/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 16/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 17/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 18/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 19/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 20/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Sabiha Rumeysa kisacik -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 21/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 22/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Hakan Durak -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 23/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Hakan Durak -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 24/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 25/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 26/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 27/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 28/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 29/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Hakan Durak -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ - 30/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Hakan Durak -> ÞEHÝT FERDÝ YURDUSEVEN GM MÝLLET 
+KIRAATHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 01/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 02/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 03/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 04/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 05/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 06/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 07/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 08/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 09/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 10/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 11/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 12/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 13/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 14/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 15/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 16/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 17/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 18/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 19/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 20/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 21/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 22/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 23/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 24/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 25/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 26/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 27/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 28/11/2025 (17:00:00 - 22:00:00)
+   -> Atama: Ali Aydemir -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [17:00-22:00] (5.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 29/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 30/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> PROF. DR. NECMETTÝN ERBAKAN BÝLÝM VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 01/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 02/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 03/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 04/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Rojin topcu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 05/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 06/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Derya KARA -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 07/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 08/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 09/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 10/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 11/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Rojin topcu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 12/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 13/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Derya KARA -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 14/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 15/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 16/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 17/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 18/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Rojin topcu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 19/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 20/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Derya KARA -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 21/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 22/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arzu Çoban -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 23/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Rojin topcu -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 24/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Arda Hasankahyaoglu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Derya KARA -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 25/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Rojin topcu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Derya KARA -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 26/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Rojin topcu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Derya KARA -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 27/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Derya KARA -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Ahmet Esat ince -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 28/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Derya KARA -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Rumeysa Nur Uzun -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 29/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Rojin topcu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Ahmet Esat ince -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SU-MEKAN KÜTÜPHANESÝ - 30/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Rojin topcu -> SU-MEKAN KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Derya KARA -> SU-MEKAN KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 01/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 02/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 03/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 04/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 05/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 06/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 07/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 08/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 09/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 10/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 11/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 12/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Muhammed Ali Acay -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 13/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 14/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Tuana Demirkiran -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 15/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 16/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 17/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 18/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Tuana Demirkiran -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 19/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Tuana Demirkiran -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 20/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Hilal Kandemir -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 21/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Rukiye Bek -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Tuana Demirkiran -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 22/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 23/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 24/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 25/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 26/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 27/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Tuana Demirkiran -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 28/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Sevgi Geyik -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: Enes Ayberk Turksoy -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 29/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ - 30/11/2025 (10:00:00 - 22:00:00)
+   -> Atama: Ronahi Yilmaz -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [10:00-19:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> NATA ÝSTANBUL (VEGA AVM) 
+KÜTÜPHANESÝ [19:00-22:00] (3.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 01/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Rojin topcu -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 02/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ahmet Esat ince -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 03/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Rumeysa Nur Uzun -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 04/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Derya KARA -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 05/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Sevgi Geyik -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 06/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Aysenur senel -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 07/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Eyup Bulut -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 08/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Enes Ayberk Turksoy -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 09/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Kadir Kacar -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 10/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Sudenaz Tezgurler -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 11/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: seyma Bayrak -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 12/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Enes turkhan -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 13/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Merve Erzen -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 14/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Selin Kuzu -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 15/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Hakan Durak -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 16/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Tarik Emir Toparlak -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 17/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: oznur bilgic -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 18/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Yagmur Aras -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 19/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Samet Atakli -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 20/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Nisanur bascilar -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 21/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Furkan Çagaldogan -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 22/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Gurkan Kocabey -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 23/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Gamze Mol -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 24/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Fatih Karagul -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 25/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ayca Toptas -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 26/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ahmet tabur -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 27/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Abdullah Duyar -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 28/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Aynur Kaplan -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 29/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Abdulkerim Kacar -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 30/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Damlanur Demir -> ÞEHÝT ÞERÝFE BACI HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 01/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 02/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 03/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 04/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 05/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 06/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 07/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 08/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 09/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 10/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 11/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 12/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 13/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 14/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 15/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 16/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 17/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 18/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 19/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 20/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nur Sina Onar -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 21/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 22/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Zeynep Yurdaer -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 23/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Zeynep Yurdaer -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 24/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 25/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 26/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Cankat KUBiLAY -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 27/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Zeynep Yurdaer -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 28/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Zeynep Yurdaer -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 29/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Zeynep Yurdaer -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ - 30/11/2025 (09:00:00 - 21:00:00)
+   -> Atama: Nihan sengul -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Zeynep Yurdaer -> NENE HATUN KÜLTÜR MERKEZÝ 
+KÜTÜPHANESÝ [18:00-21:00] (3.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 01/11/2025 (09:00:00 - 00:00:00)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 02/11/2025 (09:00:00 - 00:00:00)
+   -> yagmur_aras için Favori Bonusu (+150p) eklendi.
+   -> Atama: Yagmur Aras -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 03/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 04/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 05/11/2025 (17:00:00 - 00:00:00)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 06/11/2025 (17:00:00 - 00:00:00)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 07/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 08/11/2025 (09:00:00 - 00:00:00)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 09/11/2025 (09:00:00 - 00:00:00)
+   -> yagmur_aras için Favori Bonusu (+150p) eklendi.
+   -> Atama: Yagmur Aras -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 10/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 11/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 12/11/2025 (17:00:00 - 00:00:00)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 13/11/2025 (17:00:00 - 00:00:00)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 14/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 15/11/2025 (09:00:00 - 00:00:00)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 16/11/2025 (09:00:00 - 00:00:00)
+   -> yagmur_aras için Favori Bonusu (+150p) eklendi.
+   -> Atama: Yagmur Aras -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 17/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 18/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 19/11/2025 (17:00:00 - 00:00:00)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 20/11/2025 (17:00:00 - 00:00:00)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 21/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 22/11/2025 (09:00:00 - 00:00:00)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Kalem -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 23/11/2025 (09:00:00 - 00:00:00)
+   -> yagmur_aras için Favori Bonusu (+150p) eklendi.
+   -> Atama: Yagmur Aras -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 24/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 25/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 26/11/2025 (17:00:00 - 00:00:00)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 27/11/2025 (17:00:00 - 00:00:00)
+   -> Atama: iSMAiL CURA -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 28/11/2025 (17:00:00 - 00:00:00)
+   -> samet_atakli için Favori Bonusu (+150p) eklendi.
+   -> Atama: Samet Atakli -> E-KÜTÜPHANE [17:00-00:00] (7.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 29/11/2025 (09:00:00 - 00:00:00)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Kalem -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: E-KÜTÜPHANE - 30/11/2025 (09:00:00 - 00:00:00)
+   -> yagmur_aras için Favori Bonusu (+150p) eklendi.
+   -> Atama: Yagmur Aras -> E-KÜTÜPHANE [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Taha KAYA -> E-KÜTÜPHANE [18:00-00:00] (6.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 01/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 02/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusuf Taha KAYA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 03/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusuf Taha KAYA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 04/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusuf Taha KAYA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 05/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 06/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Taha KAYA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 07/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 08/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 09/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusuf Taha KAYA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 10/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusuf Taha KAYA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 11/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 12/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 13/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Zeynep Yurdaer -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 14/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 15/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Kalem -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 16/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Kalem -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 17/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 18/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 19/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 20/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 21/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 22/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Enes turkhan -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 23/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Kalem -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 24/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 25/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 26/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 27/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 28/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Muhammed Enes Isik -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: iSMAiL CURA -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 29/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Enes turkhan -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 30/11/2025 (09:00:00 - 22:00:00)
+   -> Atama: Yusra Karayildiz -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-18:00] (9.0 saat)
+   -> Atama: Yusuf Kalem -> SULTANÇÝFTLÝÐÝ HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [18:00-22:00] (4.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 01/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Yusuf Kalem -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 02/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Yusra Karayildiz -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 03/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Muhammed Enes Isik -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 04/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Selin Kuzu -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 05/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Kadir Kacar -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 06/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Eyup Bulut -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 07/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Furkan Çagaldogan -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 08/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Tarik Emir Toparlak -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 09/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Hakan Durak -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 10/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Derya KARA -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 11/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Enes turkhan -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 12/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Merve Erzen -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 13/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ahmet Esat ince -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 14/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Rumeysa Nur Uzun -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 15/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Rojin topcu -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 16/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Aysenur senel -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 17/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: seyma Bayrak -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 18/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Sevgi Geyik -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 19/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: oznur bilgic -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 20/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Yagmur Aras -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 21/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Nisanur bascilar -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 22/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Gamze Mol -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 23/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Samet Atakli -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 24/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Sudenaz Tezgurler -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 25/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Fatih Karagul -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 26/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ayca Toptas -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 27/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ahmet tabur -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 28/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Abdullah Duyar -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 29/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Gurkan Kocabey -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ - 30/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Aynur Kaplan -> NURETTÝN UZUN HÝZMET TESÝSÝ 
+KÜTÜPHANESÝ [09:00-20:00] (11.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 01/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Enes Ayberk Turksoy -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 02/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Abdulkerim Kacar -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 03/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Damlanur Demir -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 04/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Yusuf Kalem -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 05/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Abdulkerim Kacar -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 06/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Damlanur Demir -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 07/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Muhammed Enes Isik -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 08/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Furkan Çagaldogan -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 09/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Tarik Emir Toparlak -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 10/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Yusuf Kalem -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 11/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Selin Kuzu -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 12/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Kadir Kacar -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 13/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Eyup Bulut -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 14/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Enes turkhan -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 15/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Enes Ayberk Turksoy -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 16/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Hakan Durak -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 17/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Derya KARA -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 18/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Merve Erzen -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 19/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Rumeysa Nur Uzun -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 20/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Ahmet Esat ince -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 21/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Sevgi Geyik -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 22/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Rojin topcu -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 23/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Tarik Emir Toparlak -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 24/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Aysenur senel -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 25/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: oznur bilgic -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 26/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Yagmur Aras -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 27/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Samet Atakli -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 28/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Furkan Çagaldogan -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 29/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Gamze Mol -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ - 30/11/2025 (09:00:00 - 19:00:00)
+   -> Atama: Nisanur bascilar -> ÖZDEMÝR BAYRAKTAR GENÇLÝK VE KÜLTÜR MERKEZÝ KÜTÜPHANESÝ [09:00-19:00] (10.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 01/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Gurkan Kocabey -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 02/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Aynur Kaplan -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 03/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Sudenaz Tezgurler -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 04/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Muhammed Enes Isik -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 05/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: seyma Bayrak -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 06/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Fatih Karagul -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 07/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ayca Toptas -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 08/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ahmet tabur -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 09/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Abdullah Duyar -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 10/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Abdulkerim Kacar -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 11/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Damlanur Demir -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 12/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Yusuf Kalem -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 13/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Sevgi Geyik -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 14/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Aysenur senel -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 15/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ahmet Esat ince -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 16/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Rojin topcu -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 17/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Rumeysa Nur Uzun -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 18/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Derya KARA -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 19/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Enes turkhan -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 20/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Merve Erzen -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 21/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Kadir Kacar -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 22/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: oznur bilgic -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 23/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Nisanur bascilar -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 24/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Yagmur Aras -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 25/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Selin Kuzu -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 26/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Samet Atakli -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 27/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Fatih Karagul -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 28/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ayca Toptas -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 29/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Aynur Kaplan -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 30/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Gamze Mol -> CEMÝL MERÝÇ HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 01/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Hakan Durak -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 02/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ahmet tabur -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 03/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Abdulkerim Kacar -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 04/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Damlanur Demir -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 05/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Yusuf Kalem -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 06/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Abdullah Duyar -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 07/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Sevgi Geyik -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 08/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Gurkan Kocabey -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 09/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Aysenur senel -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 10/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Rumeysa Nur Uzun -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 11/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ahmet Esat ince -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 12/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Rojin topcu -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 13/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: oznur bilgic -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 14/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Furkan Çagaldogan -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 15/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Tarik Emir Toparlak -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 16/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Gamze Mol -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 17/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Sudenaz Tezgurler -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 18/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Nisanur bascilar -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 19/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Yagmur Aras -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 20/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Kadir Kacar -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 21/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Derya KARA -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 22/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Selin Kuzu -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 23/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Enes turkhan -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 24/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ahmet tabur -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 25/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Merve Erzen -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 26/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Fatih Karagul -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 27/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Ayca Toptas -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 28/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Abdulkerim Kacar -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 29/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Abdullah Duyar -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  - 30/11/2025 (09:00:00 - 20:00:00)
+   -> Atama: Tarik Emir Toparlak -> AÞIK VEYSEL HÝZMET TESÝSÝ KÜTÜPHANESÝ  [09:00-20:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 01/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Furkan Çagaldogan -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 02/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Hakan Durak -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 03/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Yusuf Kalem -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 04/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Kadir Kacar -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 05/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Damlanur Demir -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 06/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Selin Kuzu -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 07/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Aynur Kaplan -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 08/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Hakan Durak -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 09/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Derya KARA -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 10/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Enes turkhan -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 11/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Rumeysa Nur Uzun -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 12/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Sevgi Geyik -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 13/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Aysenur senel -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 14/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Merve Erzen -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 15/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Gurkan Kocabey -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 16/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Ahmet Esat ince -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 17/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Yagmur Aras -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 18/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: oznur bilgic -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 19/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Nisanur bascilar -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 20/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Fatih Karagul -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 21/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Aynur Kaplan -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 22/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Tarik Emir Toparlak -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 23/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Ayca Toptas -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 24/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Abdulkerim Kacar -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 25/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Ahmet tabur -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 26/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Damlanur Demir -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 27/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Yusuf Kalem -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 28/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Kadir Kacar -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 29/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Furkan Çagaldogan -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: UÐUR MUMCU KÝTAP KAFE - 30/11/2025 (10:00:00 - 21:00:00)
+   -> Atama: Abdullah Duyar -> UÐUR MUMCU KÝTAP KAFE [10:00-21:00] (11.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 01/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Gamze Mol -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 02/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Gamze Mol -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 03/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 04/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Enes turkhan -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 05/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 06/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Enes turkhan -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 07/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 08/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Gamze Mol -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 09/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Gamze Mol -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 10/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 11/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 12/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 13/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 14/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Sevgi Geyik -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 15/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Gamze Mol -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 16/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 17/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 18/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 19/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Selin Kuzu -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 20/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Enes turkhan -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 21/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Enes turkhan -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 22/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet Esat ince -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 23/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet Esat ince -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 24/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Enes turkhan -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 25/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Enes turkhan -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 26/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Enes turkhan -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 27/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Enes turkhan -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 28/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 29/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Rumeysa Nur Uzun -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: YAYLA KÝTAP KAFE - 30/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet Esat ince -> YAYLA KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 01/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet Esat ince -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 02/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Rumeysa Nur Uzun -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 03/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Sevgi Geyik -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 04/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet Esat ince -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 05/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Rumeysa Nur Uzun -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 06/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet Esat ince -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 07/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Rumeysa Nur Uzun -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 08/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet Esat ince -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 09/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet Esat ince -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 10/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Sevgi Geyik -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 11/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Sevgi Geyik -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 12/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Rumeysa Nur Uzun -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 13/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Rumeysa Nur Uzun -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 14/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 15/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Rumeysa Nur Uzun -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 16/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Rumeysa Nur Uzun -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 17/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Sevgi Geyik -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 18/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Rumeysa Nur Uzun -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 19/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 20/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Sevgi Geyik -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 21/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 22/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Yagmur Aras -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 23/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aynur Kaplan -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 24/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Sevgi Geyik -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 25/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Sevgi Geyik -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 26/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 27/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 28/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aysenur senel -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 29/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Tarik Emir Toparlak -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: HABÝBLER KÝTAP KAFE - 30/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ayca Toptas -> HABÝBLER KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 01/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aysenur senel -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 02/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aysenur senel -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 03/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aysenur senel -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 04/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 05/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 06/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 07/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Merve Erzen -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 08/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aysenur senel -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 09/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 10/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aysenur senel -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 11/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aysenur senel -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 12/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 13/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Yagmur Aras -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 14/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 15/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 16/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 17/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 18/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Fatih Karagul -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 19/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Furkan Çagaldogan -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 20/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 21/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 22/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 23/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdullah Duyar -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 24/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 25/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 26/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 27/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 28/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 29/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: oznur bilgic -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: MALKOÇOÐLU KÝTAP KAFE - 30/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet tabur -> MALKOÇOÐLU KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 01/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 02/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 03/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 04/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Nisanur bascilar -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 05/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Furkan Çagaldogan -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 06/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ayca Toptas -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 07/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Fatih Karagul -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 08/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aynur Kaplan -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 09/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ayca Toptas -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 10/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Fatih Karagul -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 11/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Fatih Karagul -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 12/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Furkan Çagaldogan -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 13/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Fatih Karagul -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 14/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Fatih Karagul -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 15/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Furkan Çagaldogan -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 16/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ayca Toptas -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 17/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Fatih Karagul -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 18/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ayca Toptas -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 19/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Fatih Karagul -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 20/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ayca Toptas -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 21/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Fatih Karagul -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 22/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Furkan Çagaldogan -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 23/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet tabur -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 24/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Damlanur Demir -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 25/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Damlanur Demir -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 26/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Furkan Çagaldogan -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 27/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Damlanur Demir -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 28/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet tabur -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 29/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet tabur -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: CUMHURÝYET KÝTAP KAFE - 30/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdulkerim Kacar -> CUMHURÝYET KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 01/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Damlanur Demir -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 02/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Yusuf Kalem -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 03/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet tabur -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 04/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdulkerim Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 05/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet tabur -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 06/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Yusuf Kalem -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 07/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Yusuf Kalem -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 08/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Damlanur Demir -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 09/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Damlanur Demir -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 10/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Damlanur Demir -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 11/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdulkerim Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 12/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Damlanur Demir -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 13/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdulkerim Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 14/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdulkerim Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 15/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdulkerim Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 16/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdulkerim Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 17/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdulkerim Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 18/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet tabur -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 19/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet tabur -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 20/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdullah Duyar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 21/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdullah Duyar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 22/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdullah Duyar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 23/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Kadir Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 24/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Kadir Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 25/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Kadir Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 26/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Kadir Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 27/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Kadir Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 28/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 29/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Kadir Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: GAZÝ KÝTAP KAFE - 30/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Kadir Kacar -> GAZÝ KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 01/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Tarik Emir Toparlak -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 02/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Tarik Emir Toparlak -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 03/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Kadir Kacar -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 04/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ayca Toptas -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 05/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ayca Toptas -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 06/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ahmet tabur -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 07/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdullah Duyar -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 08/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdullah Duyar -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 09/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aynur Kaplan -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 10/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 11/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Ayca Toptas -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 12/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 13/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdullah Duyar -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 14/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aynur Kaplan -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 15/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aynur Kaplan -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 16/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aynur Kaplan -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 17/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 18/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 19/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 20/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 21/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 22/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aynur Kaplan -> ÝSMETPAÞA  KÝTAP KAFE [12:00-18:00] (6.0 saat)
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 23/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 24/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 25/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 26/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 27/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 28/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 29/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: ÝSMETPAÞA  KÝTAP KAFE - 30/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 01/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Aynur Kaplan -> 50.YIL KÝTAP KAFE  [12:00-18:00] (6.0 saat)
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 02/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdullah Duyar -> 50.YIL KÝTAP KAFE  [12:00-18:00] (6.0 saat)
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 03/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 04/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 05/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 06/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 07/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 08/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 09/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 10/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 11/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 12/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 13/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 14/11/2025 (12:00:00 - 18:00:00)
+   -> Atama: Abdullah Duyar -> 50.YIL KÝTAP KAFE  [12:00-18:00] (6.0 saat)
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 15/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 16/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 17/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 18/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 19/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 20/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 21/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 22/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 23/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 24/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 25/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 26/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 27/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 28/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 29/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+
+Çözülüyor: 50.YIL KÝTAP KAFE  - 30/11/2025 (12:00:00 - 18:00:00)
+ -> 12:00 baþlangýcý için aday bulunamadý.
+>>> Planlama tamamlandý!
