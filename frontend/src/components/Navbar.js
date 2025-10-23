@@ -1,43 +1,54 @@
 // src/components/Navbar.js
 
-import React from 'react';
-// React Router'dan Link'i, MUI'nin kendi Link bileşeniyle karışmaması için RouterLink olarak import ediyoruz
+import React, { useState, useEffect } from 'react';
 import { Link as RouterLink, useNavigate } from 'react-router-dom';
-
-// --- MUI Bileşenlerini Import Ediyoruz ---
+// jwtDecode'a artık ihtiyacımız yok
 import { AppBar, Toolbar, Typography, Button, Box } from '@mui/material';
-// ----------------------------------------
 
 function Navbar() {
     const navigate = useNavigate();
-    const token = localStorage.getItem('accessToken');
+    const [currentUser, setCurrentUser] = useState(null);
+
+    useEffect(() => {
+        // Hafızadaki 'currentUser' objesini oku
+        const userString = localStorage.getItem('currentUser');
+        if (userString) {
+            try {
+                setCurrentUser(JSON.parse(userString));
+            } catch (e) { console.error("Kullanıcı bilgisi okunurken hata:", e); }
+        }
+    }, []);
 
     const handleLogout = () => {
         localStorage.removeItem('accessToken');
+        localStorage.removeItem('currentUser'); // Kullanıcıyı da sil
+        setCurrentUser(null);
         navigate('/login');
-        // Sayfanın tamamen yenilenip state'in temizlenmesi için
         window.location.reload();
     };
 
-    // Eğer kullanıcı giriş yapmamışsa (token yoksa), Navbar'ı hiç gösterme.
-    if (!token) {
-        return null;
-    }
+    if (!currentUser) { return null; } // Giriş yapılmadıysa menüyü gösterme
 
     return (
         <AppBar position="static">
             <Toolbar>
-                {/* Sol taraftaki başlık */}
                 <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                     Vardiya Sistemi
                 </Typography>
-
-                {/* Sağ taraftaki menü linkleri ve buton */}
                 <Box>
+                    {/* Admin linki 'is_staff' bayrağına göre gösterilir */}
+                    {currentUser.is_staff && (
+                        <Button color="inherit" component={RouterLink} to="/admin/onaylar">
+                            Yönetici Onayları
+                        </Button>
+                    )}
                     <Button color="inherit" component={RouterLink} to="/takvim">
                         Vardiya Takvimi
                     </Button>
-                    <Button color="inherit" component={RouterLink} to="/isteklerim">İsteklerim</Button>
+                    <Button color="inherit" component={RouterLink} to="/vardiyalarim">Vardiyalarım</Button>
+                    <Button color="inherit" component={RouterLink} to="/isteklerim">
+                        İsteklerim
+                    </Button>
                     <Button color="inherit" component={RouterLink} to="/musaitlik">
                         Müsaitliğimi Bildir
                     </Button>

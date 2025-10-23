@@ -168,6 +168,7 @@ REST_AUTH = {
 }
 
 SIMPLE_JWT = {
+    # Giriş yaparken /api/auth/login/ adresinin bu serializer'ı kullanmasını sağlar
     'TOKEN_OBTAIN_SERIALIZER': 'apps.users.serializers.MyTokenObtainPairSerializer',
 }
 

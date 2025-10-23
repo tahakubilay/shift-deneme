@@ -20,17 +20,21 @@ function LoginPage() {
             password: password,
         })
         .then(response => {
-            // --- DÜZELTİLMİŞ KISIM ---
-            // Backend'den gelen doğru alan adı 'access'
+            // --- KESİN DÜZELTME BURADA ---
+            // Backend'den 'access' (alt çizgisiz) ve 'user' objelerini al
             const token = response.data.access; 
-            // --------------------------
+            const user = response.data.user;
+            // -----------------------------
 
-            if (token) {
+            if (token && user) {
+                // Hem token'ı hem de kullanıcı bilgisini hafızaya kaydet
                 localStorage.setItem('accessToken', token);
-                navigate('/takvim'); // Giriş yapınca takvime yönlendir
-                window.location.reload(); // Sayfanın yenilenerek yeni token ile state'leri sıfırlamasını sağla
+                localStorage.setItem('currentUser', JSON.stringify(user)); // Kullanıcıyı JSON olarak sakla
+                
+                navigate('/takvim');
+                window.location.reload(); // Navbar'ın güncellenmesi için
             } else {
-                setError("Giriş başarılı ama token alınamadı.");
+                setError("Giriş başarılı ama token veya kullanıcı bilgisi alınamadı. Yanıt: " + JSON.stringify(response.data));
             }
         })
         .catch(error => {

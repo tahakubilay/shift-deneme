@@ -7,29 +7,65 @@ class MusaitlikSerializer(serializers.ModelSerializer):
         model = Musaitlik
         fields = ['gun', 'musaitlik_durumu']
     
+# apps/schedules/serializers.py
+
+# apps/schedules/serializers.py
+
+# ... (other imports and serializers) ...
+
 class VardiyaSerializer(serializers.ModelSerializer):
-    # 'calisan' ve 'sube' alanlarının ID yerine isimlerini göstermek için
-    calisan = serializers.StringRelatedField()
-    sube = serializers.StringRelatedField()
+    # These are the fields you defined directly
+    calisan_adi = serializers.StringRelatedField(source='calisan')
+    sube_adi = serializers.StringRelatedField(source='sube')
 
     class Meta:
         model = Vardiya
-        # Göstermek istediğimiz tüm alanları belirtiyoruz
-        fields = ['id', 'sube', 'calisan', 'baslangic_zamani', 'bitis_zamani', 'durum']
+        # --- MAKE SURE THIS LIST INCLUDES YOUR DEFINED FIELDS ---
+        fields = ['id', 'sube', 'sube_adi', 'calisan', 'calisan_adi', 'baslangic_zamani', 'bitis_zamani', 'durum']
+        # --------------------------------------------------------
 
 class VardiyaIstegiCreateSerializer(serializers.ModelSerializer):
     class Meta:
         model = VardiyaIstegi
-        # Kullanıcının sadece bu iki alanı göndermesine izin veriyoruz
-        fields = ['vardiya', 'hedef_calisan']
+        # Modelimizdeki yeni alan adlarını kullanıyoruz
+        fields = ['istek_yapan_vardiya', 'hedef_vardiya', 'istek_yapan', 'hedef_calisan']
 
 class VardiyaIstegiListSerializer(serializers.ModelSerializer):
-    # İsimleri göstermeye devam edelim
-    istek_yapan_adi = serializers.StringRelatedField(source='istek_yapan')
-    hedef_calisan_adi = serializers.StringRelatedField(source='hedef_calisan')
-    vardiya = VardiyaSerializer(read_only=True)
+    # İsimleri göstermek için
+    istek_yapan_adi = serializers.StringRelatedField(source='istek_yapan', read_only=True)
+    hedef_calisan_adi = serializers.StringRelatedField(source='hedef_calisan', read_only=True)
+    
+    # --- DÜZELTME BURADA ---
+    # Artık iki vardiyanın da detaylarını gönderiyoruz
+    istek_yapan_vardiya_detay = VardiyaSerializer(read_only=True, source='istek_yapan_vardiya')
+    hedef_vardiya_detay = VardiyaSerializer(read_only=True, source='hedef_vardiya')
     
     class Meta:
         model = VardiyaIstegi
-        # ID'leri de ekliyoruz
-        fields = '__all__'
+        # Alan listesini de güncelliyoruz (artık 'vardiya' yok)
+        fields = [
+            'id',
+            'istek_tipi',
+            'durum',
+            'olusturulma_tarihi',
+            
+            # ID Alanları (Filtreleme için)
+            'istek_yapan',
+            'hedef_calisan',
+            'istek_yapan_vardiya', # ID
+            'hedef_vardiya',     # ID
+
+            # İsim Alanları (Gösterim için)
+            'istek_yapan_adi',
+            'hedef_calisan_adi',
+
+            # Detay Alanları (Frontend'de bilgileri göstermek için)
+            'istek_yapan_vardiya_detay',
+            'hedef_vardiya_detay'
+        ]
+
+class VardiyaIptalCreateSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = VardiyaIstegi
+        # Kullanıcının sadece hangi vardiyayı iptal etmek istediğini göndermesi yeterli
+        fields = ['istek_yapan_vardiya']
