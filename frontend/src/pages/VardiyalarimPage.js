@@ -151,6 +151,27 @@ function VardiyalarimPage() {
 
     // ----------------------------
 
+    // İptal Et fonksiyonu
+    const handleIptalEt = (vardiya) => {
+        if (!window.confirm(`${moment(vardiya.baslangic_zamani).format('DD MMM YYYY, HH:mm')} tarihli vardiyayı iptal etmek istediğinizden emin misiniz?`)) {
+            return;
+        }
+
+        const dataToSend = {
+            istek_yapan_vardiya: vardiya.id
+        };
+
+        axios.post(`http://127.0.0.1:8000/api/schedules/vardiya-iptal/`, dataToSend, getAuthHeaders())
+            .then(() => {
+                setSuccess("İptal isteğiniz admin onayına gönderildi.");
+                fetchBenimVardiyalarim();
+            })
+            .catch(error => {
+                console.error("İptal isteği hatası!", error.response?.data || error.message);
+                setError(error.response?.data?.hata || 'İptal isteği gönderilemedi.');
+            });
+    };
+
     return (
         <Container maxWidth="lg" sx={{ mt: 4 }}>
             <Typography component="h1" variant="h4" gutterBottom>
@@ -158,7 +179,8 @@ function VardiyalarimPage() {
             </Typography>
 
             {loading && ( <Box sx={{ display: 'flex', justifyContent: 'center', my: 3 }}><CircularProgress /></Box> )}
-            {error && <Alert severity="error">{error}</Alert>}
+            {error && <Alert severity="error" sx={{ mb: 2 }}>{error}</Alert>}
+            {success && <Alert severity="success" sx={{ mb: 2 }}>{success}</Alert>}
 
             {!loading && !error && (
                 <TableContainer component={Paper}>
@@ -183,11 +205,19 @@ function VardiyalarimPage() {
                                     <TableCell>{moment(vardiya.baslangic_zamani).format('HH:mm')}</TableCell>
                                     <TableCell>{moment(vardiya.bitis_zamani).format('HH:mm')}</TableCell>
                                     <TableCell align="right">
-                                        <Button 
-                                            variant="contained" 
-                                            onClick={() => handleTakasBaslat(vardiya)} // Artık doğru fonksiyonu çağırıyor
+                                        <Button
+                                            variant="contained"
+                                            onClick={() => handleTakasBaslat(vardiya)}
+                                            sx={{ mr: 1 }}
                                         >
                                             Takas Et
+                                        </Button>
+                                        <Button
+                                            variant="outlined"
+                                            color="error"
+                                            onClick={() => handleIptalEt(vardiya)}
+                                        >
+                                            İptal Et
                                         </Button>
                                     </TableCell>
                                 </TableRow>

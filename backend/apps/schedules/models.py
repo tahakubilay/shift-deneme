@@ -64,12 +64,15 @@ class KisitlamaKurali(models.Model):
 class VardiyaIstegi(models.Model):
     istek_tipi = models.CharField(max_length=10, choices=IstekTipi.choices)
     istek_yapan_vardiya = models.ForeignKey(Vardiya, on_delete=models.CASCADE, related_name='teklif_edilen_istekler')
-    hedef_vardiya = models.ForeignKey(Vardiya, on_delete=models.CASCADE, related_name='alinmak_istenen_istekler')
+    hedef_vardiya = models.ForeignKey(Vardiya, on_delete=models.CASCADE, related_name='alinmak_istenen_istekler', null=True, blank=True)
     istek_yapan = models.ForeignKey('users.CustomUser', on_delete=models.CASCADE, related_name='gonderdigi_istekler')
-    hedef_calisan = models.ForeignKey('users.CustomUser', on_delete=models.CASCADE, related_name='aldigi_istekler')
+    hedef_calisan = models.ForeignKey('users.CustomUser', on_delete=models.CASCADE, related_name='aldigi_istekler', null=True, blank=True)
+    yedek_calisan = models.ForeignKey('users.CustomUser', on_delete=models.SET_NULL, null=True, blank=True, related_name='yedek_atandigi_istekler')
     durum = models.CharField(max_length=30, choices=IstekDurum.choices, default=IstekDurum.HEDEF_ONAYI_BEKLIYOR)
     olusturulma_tarihi = models.DateTimeField(auto_now_add=True)
     guncellenme_tarihi = models.DateTimeField(auto_now=True)
 
     def __str__(self):
+        if self.istek_tipi == IstekTipi.IPTAL:
+            return f"{self.istek_yapan.username} vardiya iptal isteği. Durum: {self.get_durum_display()}"
         return f"{self.istek_yapan.username}, {self.hedef_calisan.username}'in vardiyasını istiyor. Durum: {self.get_durum_display()}"

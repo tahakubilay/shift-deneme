@@ -6,7 +6,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status, generics, permissions
 from .models import Musaitlik, Vardiya, VardiyaIstegi
-from .serializers import MusaitlikSerializer, VardiyaSerializer, VardiyaIstegiCreateSerializer, VardiyaIstegiListSerializer, VardiyaIptalCreateSerializer
+from .serializers import MusaitlikSerializer, VardiyaSerializer, VardiyaIstegiCreateSerializer, VardiyaIstegiListSerializer, VardiyaIptalCreateSerializer, AdminIptalActionSerializer
 from .choices import IstekTipi, IstekDurum
 from django.core.management import call_command
 from django.http import JsonResponse
@@ -151,34 +151,63 @@ class AdminIstekActionView(APIView):
 
         action = request.data.get('action')
 
-        if action == 'onayla':
-            vardiya1 = istek.istek_yapan_vardiya
-            vardiya2 = istek.hedef_vardiya
-            
-            calisan1 = vardiya1.calisan
-            calisan2 = vardiya2.calisan
-            
-            try:
-                with transaction.atomic():
-                    vardiya1.calisan = calisan2
-                    vardiya2.calisan = calisan1
-                    vardiya1.save()
-                    vardiya2.save()
-                    
-                    istek.durum = IstekDurum.ONAYLANDI
-                    istek.save()
-            except Exception as e:
-                return Response({'hata': f'Takas sırasında bir veritabanı hatası oluştu: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
-            
-            return Response({'mesaj': 'Takas başarıyla onaylandı ve vardiyalar değiştirildi.'})
-        
-        elif action == 'reddet':
-            istek.durum = IstekDurum.REDDEDILDI
-            istek.save()
-            return Response({'mesaj': 'İstek reddedildi.'})
-        
-        else:
-            return Response({'hata': 'Geçersiz eylem. "onayla" veya "reddet" gönderilmeli.'}, status=status.HTTP_400_BAD_REQUEST)
+        if istek.istek_tipi == IstekTipi.IPTAL:
+            if action == 'onayla':
+                yedek_calisan_id = request.data.get('yedek_calisan_id')
+                vardiya = istek.istek_yapan_vardiya
+
+                try:
+                    with transaction.atomic():
+                        if yedek_calisan_id:
+                            from apps.users.models import CustomUser
+                            yedek_calisan = CustomUser.objects.get(id=yedek_calisan_id)
+                            vardiya.calisan = yedek_calisan
+                            vardiya.save()
+                            istek.yedek_calisan = yedek_calisan
+                        else:
+                            vardiya.durum = 'iptal'
+                            vardiya.save()
+
+                        istek.durum = IstekDurum.ONAYLANDI
+                        istek.save()
+                except Exception as e:
+                    return Response({'hata': f'İptal işlemi sırasında hata: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+                return Response({'mesaj': 'İptal isteği onaylandı.'})
+
+            elif action == 'reddet':
+                istek.durum = IstekDurum.REDDEDILDI
+                istek.save()
+                return Response({'mesaj': 'İptal isteği reddedildi.'})
+
+        elif istek.istek_tipi == IstekTipi.TAKAS:
+            if action == 'onayla':
+                vardiya1 = istek.istek_yapan_vardiya
+                vardiya2 = istek.hedef_vardiya
+
+                calisan1 = vardiya1.calisan
+                calisan2 = vardiya2.calisan
+
+                try:
+                    with transaction.atomic():
+                        vardiya1.calisan = calisan2
+                        vardiya2.calisan = calisan1
+                        vardiya1.save()
+                        vardiya2.save()
+
+                        istek.durum = IstekDurum.ONAYLANDI
+                        istek.save()
+                except Exception as e:
+                    return Response({'hata': f'Takas sırasında bir veritabanı hatası oluştu: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+                return Response({'mesaj': 'Takas başarıyla onaylandı ve vardiyalar değiştirildi.'})
+
+            elif action == 'reddet':
+                istek.durum = IstekDurum.REDDEDILDI
+                istek.save()
+                return Response({'mesaj': 'İstek reddedildi.'})
+
+        return Response({'hata': 'Geçersiz eylem.'}, status=status.HTTP_400_BAD_REQUEST)
 
 class PlanOlusturView(APIView):
     permission_classes = [permissions.IsAdminUser]

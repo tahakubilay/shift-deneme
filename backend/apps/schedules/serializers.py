@@ -67,5 +67,8 @@ class VardiyaIstegiListSerializer(serializers.ModelSerializer):
 class VardiyaIptalCreateSerializer(serializers.ModelSerializer):
     class Meta:
         model = VardiyaIstegi
-        # Kullanıcının sadece hangi vardiyayı iptal etmek istediğini göndermesi yeterli
         fields = ['istek_yapan_vardiya']
+
+class AdminIptalActionSerializer(serializers.Serializer):
+    action = serializers.ChoiceField(choices=['onayla', 'reddet'])
+    yedek_calisan_id = serializers.IntegerField(required=False, allow_null=True)
